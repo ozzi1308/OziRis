@@ -1,5 +1,4 @@
-<!-- Aplikasi pemesanan cafe (ALTACA) -->
-https://www.youtube.com/@markazvirtual
+<!-- Aplikasi Sistem Informasi Radiologi (OZIRIS) -->
 
 Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada cafe, restoran, rumah makan atau sejenisnya.
 
@@ -13,7 +12,7 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
     -Konfirmasi permohonan xray
     -Mendaftarkan pesakit, mengubah data pesakit
 
-# # Pelayan(3)
+# # Doktor(3)
     -Melihat menu dan harga
     -Memilih menu
     -Melihat total harga pesanan
