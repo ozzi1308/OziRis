@@ -7,10 +7,11 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
     -Menambah/mengubah/menghapus daftar modaliti, jenis pemeriksaan 
     -Menambah/mengubah/menghapus user
 
-# # staff (2)
+# # Management (2)
     -Melihat pesanan x-ray, appoinment,
     -Konfirmasi permohonan xray
     -Mendaftarkan pesakit, mengubah data pesakit
+    -
 
 # # Doktor(3)
     -Melihat menu dan harga
@@ -20,24 +21,28 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
     -Update pesanan
     -Hapus pesanan
 
-# # Dapur(4)
+# # User(4)
     -Menerima pesanan
     -Konfirmasi terima pesanan
-    -Mengubah status pesanan"siap saji"
+    -Mengubah status pesanan"completed, pending, aborted, canceled, rejected"
+    -Membuat/Melihat pesanan x-ray, appoinment,
+    -Konfirmasi permohonan xray
+    -Mendaftarkan pesakit, mengubah data pesakit
 
-<!-- Aplikasi pemesanan cafe (ALTACA) -->
-Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada cafe, restoran, rumah makan atau sejenisnya.
+<!-- Aplikasi Sistem Informasi Radiologi (OZIRIS) -->
+Sebuah aplikasi yang dapat digunakan untuk pemesanan pemeriksaan radiologi.
 
 # # Pemilik/admin(1)
     -Daftar Menu
     -Pesanan
     -Report
-# # Kasir (2)
+# # staff (2)
     -Daftar Menu
     -Pesanan
-# # Pelayan(3)
+# # doktor(3)
     -Daftar Menu
     -Pesanan
-# # Dapur(4)
-    -Pesanan# oziris
+# # user(4)
+    -Pesanan
+# oziris
 # oziris
