@@ -5,13 +5,13 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
 
 # # Pemilik/admin(1)
     -Melihat laporan
-    -Menambah/mengubah/menghapus daftar menu dan harga 
+    -Menambah/mengubah/menghapus daftar modaliti, jenis pemeriksaan 
     -Menambah/mengubah/menghapus user
 
-# # Kasir (2)
-    -Melihat harga dan total harga pesanan
-    -Konfirmasi pembayaran
-    -Membuat bukti pembayaran
+# # staff (2)
+    -Melihat pesanan x-ray, appoinment,
+    -Konfirmasi permohonan xray
+    -Mendaftarkan pesakit, mengubah data pesakit
 
 # # Pelayan(3)
     -Melihat menu dan harga
